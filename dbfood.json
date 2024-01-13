@@ -1,0 +1,564 @@
+{
+  "users": [],
+  "wishlist": [],
+  "products": [
+      {
+        "name": "Nasi Goreng",
+        "slug": "nasi-goreng",
+        "description": "Nasi Goreng is a flavorful fried rice dish, often made with kecap manis (sweet soy sauce), garlic, shallot, tamarind, and chili. It is accompanied by other ingredients such as egg, chicken, and prawns, making it a delicious Indonesian favorite.",
+        "excerpt": "Delicious Indonesian fried rice.",
+        "price": 25000,
+        "tags": ["Indonesian", "Fried Rice", "Spicy"],
+        "thumbnail": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2023-03/nasi%20goreng%C2%A9iStock.jpg",
+        "images": [
+          "https://healthybelly.s3.amazonaws.com/gambar_sampul/gambar_sampul_1686665852.webp",
+          "https://www.wandercooks.com/wp-content/uploads/2023/05/nasi-goreng-3.jpg",
+          "https://www.kitchensanctuary.com/wp-content/uploads/2020/07/Nasi-Goreng-square-FS-57.jpg",
+          "https://www.recipetineats.com/wp-content/uploads/2016/03/Nasi-Goreng_3-1.jpg",
+          "https://www.recipetineats.com/wp-content/uploads/2016/03/Nasi-Goreng_1-1.jpgs"
+        ],
+        "createdAt": "2024-01-01T12:00:00Z",
+        "updatedAt": "2024-01-01T12:30:00Z"
+      },
+      {
+        "name": "Sate Ayam",
+        "slug": "sate-ayam",
+        "description": "Sate Ayam is a popular Indonesian dish consisting of skewered and grilled chicken, served with a flavorful peanut sauce. Enjoy tender chicken skewers with the perfect balance of savory and nutty flavors.",
+        "excerpt": "Tender chicken skewers with peanut sauce.",
+        "price": 30000,
+        "tags": ["Indonesian", "Chicken Satay", "Grilled"],
+        "thumbnail": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/14053934/Mudah-Dibuat-di-Rumah-Ini-Resep-Sate-Ayam-Bumbu-Kacang-yang-Lezat-.jpg",
+        "images": [
+          "https://www.blibli.com/friends-backend/wp-content/uploads/2023/04/B300045-Cover-resep-sate-ayam.jpg",
+          "https://asset.kompas.com/crops/QgfVXuMhL5tHLqnJKfGPs9Yx5xY=/100x67:900x600/750x500/data/photo/2023/10/24/6537126d64f8b.jpeg",
+          "https://img-global.cpcdn.com/recipes/4de47a13d8c762d6/1200x630cq70/photo.jpg",
+          "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/587/2023/12/20/sate-ayam-70823672.jpeg",
+          "https://cdn.yummy.co.id/content-images/images/20221212/L7elykZj8xz32F5OJa0eoJn6d1FQdSMw-31363730383238333139d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp"
+        ],
+        "createdAt": "2024-01-02T10:00:00Z",
+        "updatedAt": "2024-01-02T11:15:00Z"
+      },
+      {
+        "name": "Rendang",
+        "slug": "rendang",
+        "description": "Rendang is a rich and tender coconut beef stew that is explosively flavorful. Originating from the Minangkabau ethnic group of Indonesia, it is often hailed as one of the world's most delicious dishes, known for its spicy and savory taste.",
+        "excerpt": "Spicy and savory coconut beef stew.",
+        "price": 35000,
+        "tags": ["Indonesian", "Beef Stew", "Spicy"],
+        "thumbnail": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/13044906/resep-rendang-daging-khas-padang-yang-sehat-dan-menggugah-selera.jpg.webp",
+        "images": [
+          "https://images.tokopedia.net/img/KRMmCm/2022/8/9/51584c5e-2713-4895-88d5-30b677255ffd.jpg",
+          "https://radartasikmalaya.tv/wp-content/uploads/2023/06/images-87-1.jpeg",
+          "https://akcdn.detik.net.id/visual/2020/03/12/2ac1c04d-bc13-4c52-ba61-56c54d515af5_11.jpeg?w=480&q=90",
+          "https://cdns.klimg.com/merdeka.com/i/w/news/2022/04/05/1423451/540x270/6-cara-memasak-rendang-padang-yang-empuk-dan-bercita-rasa-tinggi-mudah-praktis.jpg",
+          "https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/18/977833/540x270/bumbu-rendang-daging-khas-padang-enak-dan-sederhana.jpgs"
+        ],
+        "createdAt": "2024-01-03T15:00:00Z",
+        "updatedAt": "2024-01-03T16:45:00Z"
+      },
+      {
+        "name": "Gado-Gado",
+        "slug": "gado-gado",
+        "description": "Gado-Gado is a popular Indonesian salad featuring mixed vegetables, tofu, tempeh, and hard-boiled eggs, all drizzled with a tasty peanut sauce. A delightful and nutritious dish.",
+        "excerpt": "Indonesian mixed vegetable salad.",
+        "price": 20000,
+        "tags": ["Indonesian", "Salad", "Peanut Sauce"],
+        "thumbnail": "https://img.kurio.network/rlKzeW_1_iLZ-JMm9fFHX-rGdIE=/1200x1200/filters:quality(80)/https://kurio-img.kurioapps.com/22/06/22/53264347-b7ba-4257-852d-04e3d1b4e4e5.jpe",
+        "images": [
+          "https://i0.wp.com/resepkoki.id/wp-content/uploads/2017/02/Resep-Gado-Gado.jpg?fit=500%2C479&ssl=1",
+          "https://cdns.klimg.com/merdeka.com/i/w/news/2022/07/05/1450346/540x270/lezatnya-gado-gado-warung-bu-lisa-mampu-memanjakan-lidah-warga-kediri.jpg",
+          "https://cdn.idntimes.com/content-images/community/2022/04/gado-gado-isinya-apa-saja-filosofi-gad-gado-cara-membuat-sambal-gado-gado-9cde86371d7fc78c91ae80a6ffab250e-b8137bb1e610c76f5f65dfc312f4cdc0_600x400.jpg",
+          "https://rbtv.disway.id/upload/20671b4f7e3ab63901484658ad9953d7.jpeg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gado_gado_jakarta.jpg/800px-Gado_gado_jakarta.jpg"
+        ],
+        "createdAt": "2024-01-04T08:00:00Z",
+        "updatedAt": "2024-01-04T09:30:00Z"
+      },
+      {
+        "name": "Bakso",
+        "slug": "bakso",
+        "description": "Bakso is a popular Indonesian meatball soup. It features flavorful broth, rice noodles, and a variety of meatballs, making it a comforting and satisfying dish.",
+        "excerpt": "Indonesian meatball soup.",
+        "price": 18000,
+        "tags": ["Indonesian", "Soup", "Meatballs"],
+        "thumbnail": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/25041221/ini-resep-kuah-bakso-sap-yang-mudah-dibuat-di-rumah.jpg",
+        "images": [
+          "https://img.kurio.network/xAbHWPE-jbNSWEWyRoCLxJM6sac=/1200x1200/filters:quality(80)/https://kurio-img.kurioapps.com/21/09/06/2c552606-f62f-475d-81db-e9a57e963a3f.jpe",
+          "https://paxelmarket.co/wp-content/uploads/2022/02/Bakso-Komplit.jpg",
+          "https://asset-2.tstatic.net/tribunnewswiki/foto/bank/images/sajian-bakso-enak-yang-cocok-dimakan-saat-hujan.jpg",
+          "https://radarmukomuko.disway.id/upload/545bea62175317d9eed4ab69eb94e94d.jpg",
+          "https://paxelmarket.co/wp-content/uploads/2021/10/bakso-urat-di-mangkok.jpg"
+        ],
+        "createdAt": "2024-01-05T14:00:00Z",
+        "updatedAt": "2024-01-05T15:45:00Z"
+      },
+      {
+        "name": "Martabak",
+        "slug": "martabak",
+        "description": "Martabak is a stuffed Indonesian pancake, often filled with a mixture of sweet and savory ingredients such as chocolate, cheese, condensed milk, and minced meat. A delightful treat enjoyed by many.",
+        "excerpt": "Indonesian stuffed pancake.",
+        "price": 22000,
+        "tags": ["Indonesian", "Pancake", "Stuffed"],
+        "thumbnail": "https://nibble-images.b-cdn.net/nibble/original_images/194498647_853797338880001_7056004262933511072_n.jpg",
+        "images": [
+          "https://www.frisianflag.com/storage/app/media/uploaded-files/martabak-red-velvet.jpg",
+          "https://cdn.idntimes.com/content-images/community/2023/11/snapinstaapp-343290591-3424751674509118-7364340412995712991-n-1080-66934c0cbeade5e56b2fec27e2f98983-6d81d4d1059fe4aa78161c2d747dba4d_600x400.jpg",
+          "https://www.dapurkobe.co.id/wp-content/uploads/martabak-8-rasa.jpg",
+          "https://img.inews.co.id/media/600/files/inews_new/2020/08/26/resep_martabak_manis_rol.jpg",
+          "https://cdn.idntimes.com/content-images/community/2022/07/fromandroid-1250caab9ad41bfe7796c71c22e05a3e_600x400.jpg"
+        ],
+        "createdAt": "2024-01-06T12:00:00Z",
+        "updatedAt": "2024-01-06T13:15:00Z"
+      },
+      {
+        "name": "Ayam Goreng",
+        "slug": "ayam-goreng",
+        "description": "Ayam Goreng is Indonesian fried chicken known for its flavorful marinade and crispy texture. Often served with rice and sambal, it's a classic dish loved by many.",
+        "excerpt": "Crispy Indonesian fried chicken.",
+        "price": 28000,
+        "tags": ["Indonesian", "Fried Chicken", "Crispy"],
+        "thumbnail": "https://www.astronauts.id/blog/wp-content/uploads/2023/04/Resep-Ayam-Goreng-Serundeng-ala-Rumahan-yang-Nggak-Kalah-Enak-dari-Restoran.jpg",
+        "images": [
+          "https://foto.kontan.co.id/i7pakqHQR9VOUg4VbL8W16jaTTc=/640x360/smart/2023/09/21/794108845p.jpg",
+          "https://o-cdn-cas.sirclocdn.com/parenting/images/ayam-goreng-lengkuas.width-800.format-webp.webp",
+          "https://img2.beritasatu.com/cache/beritasatu/960x620-3/2023/06/1686234277-1280x720.webp",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Rd3535mn_o0auQCV-nQuKBP2XAEbHySOKxaMVlvkVObkjL_bJTDiYgkEtSxH4AS2OLU&usqp=CAU",
+          "https://asset-2.tstatic.net/medan/foto/bank/images/resep-ayam-goreng-kuning-tabur-serundeng-enak.jpg"
+        ],
+        "createdAt": "2024-01-07T18:00:00Z",
+        "updatedAt": "2024-01-07T19:45:00Z"
+      },
+      {
+        "name": "Es Teler",
+        "slug": "es-teler",
+        "description": "Es Teler is a refreshing Indonesian fruit cocktail featuring a mix of tropical fruits, coconut meat, avocado, and condensed milk, topped with crushed ice. A delightful and cooling treat.",
+        "excerpt": "Indonesian tropical fruit cocktail.",
+        "price": 15000,
+        "tags": ["Indonesian", "Fruit Cocktail", "Refreshing"],
+        "thumbnail": "https://asset.kompas.com/crops/_kSWBlZOkG4xzoUL6sPgNf5IJOY=/0x0:698x465/750x500/data/photo/2021/04/22/60813ec0aa4a3.jpg",
+        "images": [
+          "https://www.frisianflag.com/storage/app/media/uploaded-files/es-teler-nikmat.jpg",
+          "https://pict-a.sindonews.net/webp/480/pena/news/2023/03/29/185/1059217/resep-es-teler-alpukat-nangka-takjil-segar-untuk-buka-puasa-ccp.webp",
+          "https://awsimages.detik.net.id/community/media/visual/2023/03/27/kedai-es-teler-di-surabaya-3_43.jpeg?w=600&q=90",
+          "https://cdn.idntimes.com/content-images/post/20211025/fb4-xnxvgaqnnux-52c97103c73b3e4e9710a84eaaba536a_600x400.jpg",
+          "https://cdn.yummy.co.id/content-images/images/20201015/Dp0CXmKVi15LHyx4O7NN53pKhPmwD9oq-31363032373735393835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/format,webp"
+        ],
+        "createdAt": "2024-01-08T09:00:00Z",
+        "updatedAt": "2024-01-08T10:30:00Z"
+      },
+      {
+        "name": "Rujak",
+        "slug": "rujak",
+        "description": "Rujak is an Indonesian fruit salad with a spicy tamarind dressing. It typically includes a mix of tropical fruits, cucumber, and sometimes tofu or fried shrimp crackers.",
+        "excerpt": "Spicy Indonesian fruit salad.",
+        "price": 12000,
+        "tags": ["Indonesian", "Fruit Salad", "Spicy"],
+        "thumbnail": "https://www.indonesia.travel/content/dam/indtravelrevamp/en/trip-ideas/indonesian-rujak/thumbnail.jpg",
+        "images": [
+          "https://cdn.idntimes.com/content-images/community/2022/03/rujak-buah-59f506aa441e3192bb4237a4e87b2a36-5fc67fcbede6dbe5a622be5d02f29a6a_600x400.jpg",
+          "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/04/30/5641F074-578F-466D-B2AF-DB2ECD587073-1108337195.jpeg",
+          "https://cdn.yummy.co.id/content-images/images/20220708/W1nl19yiTGLPsfOYBwxyX9jzJ9gC26p1-31363537323839323135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp",
+          "https://img-global.cpcdn.com/recipes/a90f354d8988c8d4/680x482cq70/rujak-manis-buah-foto-resep-utama.jpg",
+          "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/01/11/414746.jpg"
+        ],
+        "createdAt": "2024-01-09T11:00:00Z",
+        "updatedAt": "2024-01-09T12:15:00Z"
+      },
+      {
+        "name": "Bubur Ayam",
+        "slug": "bubur-ayam",
+        "description": "Bubur Ayam is a traditional Indonesian chicken congee. It's a comforting porridge made with rice, shredded chicken, and a variety of condiments such as fried shallots, green onions, and soy sauce.",
+        "excerpt": "Traditional Indonesian chicken congee.",
+        "price": 12000,
+        "tags": ["Indonesian", "Congee", "Comfort Food"],
+        "thumbnail": "https://asset.kompas.com/crops/Kyp-MBp3Kf0PLGveth_zzhU2gfI=/0x0:1000x667/750x500/data/photo/2020/07/11/5f09e008e7fee.jpg",
+        "images": [
+          "https://www.natural-poultry.com/wp-content/uploads/2021/09/Cara-Membuat-Bubur-Ayam-Kuning-Serta-Manfaat-Mengkonsumsinya.jpg",
+          "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/indizone/2022/05/18/V6sR4D1/5-resep-bubur-ayam-yang-enak-khas-berbagai-daerah-di-indonesia24.jpg",
+          "https://asset.momsindonesia.com/storage/article/3579800f32c180c952de86b4e9ea7670.jpg",
+          "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/08/09/EC9Wi9nVUAMIck2-1429549444.jpg",
+          "https://nusantaratv.com/2023/05/bubur-ayam-1685074684-05-2023.jpg"
+        ],
+        "createdAt": "2024-01-10T14:00:00Z",
+        "updatedAt": "2024-01-10T15:45:00Z"
+      },
+      {
+        "name": "Pisang Goreng",
+        "slug": "pisang-goreng",
+        "description": "Pisang Goreng, or fried bananas, is a popular Indonesian snack. It involves coating banana slices in a sweet batter and frying them until golden brown. Enjoyed as a crispy and sweet treat.",
+        "excerpt": "Crispy Indonesian fried bananas.",
+        "price": 8000,
+        "tags": ["Indonesian", "Snack", "Fried"],
+        "thumbnail": "https://cdn0-production-images-kly.akamaized.net/cyLPwNyLhvM-qcUSoxacW435w2s=/1x63:1000x626/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4510869/original/091956400_1690031740-shutterstock_2220175069.jpg",
+        "images": [
+          "https://www.astronauts.id/blog/wp-content/uploads/2023/11/Berbagai-Resep-Pisang-Goreng-Crispy-dan-Legit-Sejak-Gigitan-Pertama.jpg",
+          "https://www.blibli.com/friends-backend/wp-content/uploads/2023/03/B300012-Cover-resep-pisang-goreng-1024x683.jpg",
+          "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/republika/member/4s13a42sd3.jpg",
+          "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/937/2023/10/06/Nikmati-Kelezatan-Simpel-Resep-Pisang-Goreng-Sederhana-yang-Menggugah-Selera-Busurnusacom-3017334741.png",
+          "https://cdn0-production-images-kly.akamaized.net/UUxz-7cWCLXuy9VXCuq8yYU9Oyo=/469x625/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4562893/original/020655600_1693823477-shutterstock_2236429363.jpg"
+        ],
+        "createdAt": "2024-01-11T12:00:00Z",
+        "updatedAt": "2024-01-11T13:15:00Z"
+      },
+      {
+          "name": "Sushi Deluxe",
+          "slug": "sushi-deluxe",
+          "description": "Sushi Deluxe is a premium assortment of traditional Japanese sushi, featuring a variety of fresh fish and seafood atop seasoned rice. A delightful culinary experience for sushi enthusiasts.",
+          "excerpt": "Premium assortment of Japanese sushi.",
+          "price": 50000,
+          "tags": ["Japanese", "Sushi", "Premium"],
+          "thumbnail": "https://foto.kontan.co.id/7s5_PQ56V0Iu_RxqmXMD9exJpQo=/smart/filters:format(webp)/2022/06/24/788740167p.jpg",
+          "images": [
+            "https://api-lotte.hollacode.com/api/static/inspirasi/1668577941434-mengenal-10-jenis-sushi-yang-populer-dan-sering-dikonsumsi.jpg",
+            "https://media.istockphoto.com/id/1053854126/id/foto/semua-anda-bisa-makan-sushi.jpg?s=612x612&w=0&k=20&c=u6mNhxqOW1UA-26ESbu0coqQqAQhEwZb2SUykmKywKM=",
+            "https://awsimages.detik.net.id/community/media/visual/2022/10/11/ini-5-jenis-sushi-yang-sering-dihidangkan-di-restoran-1.jpeg?w=1200",
+            "https://d1bpj0tv6vfxyp.cloudfront.net/articles/88882c10-736f-42a3-a650-ac0b6312419f_article_image_url.webp",
+            "https://static.honestdocs.id/system/blog_articles/main_hero_images/000/002/990/original/Ikan_Mentah_Pada_Hidangan_Sushi__Aman_Untuk_di_Konsumsi.jpg"
+          ],
+          "createdAt": "2024-02-01T12:00:00Z",
+          "updatedAt": "2024-02-01T12:30:00Z"
+        },
+        {
+          "name": "Ramen Feast",
+          "slug": "ramen-feast",
+          "description": "Ramen Feast brings together a rich and flavorful bowl of Japanese ramen, featuring savory broth, noodles, tender slices of pork, green onions, and a perfectly cooked egg. A comforting and satisfying dish.",
+          "excerpt": "Rich and flavorful Japanese ramen.",
+          "price": 35000,
+          "tags": ["Japanese", "Ramen", "Comfort Food"],
+          "thumbnail": "https://nibble-images.b-cdn.net/nibble/original_images/ramen-enak-di-bogor-00.jpg",
+          "images": [
+            "https://asset.kompas.com/crops/Ji7C7P1Tc-A9E_dUi2TQpAQrvRs=/32x0:1000x645/1200x800/data/photo/2021/10/29/617b8e186e903.jpg",
+            "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/c4e7f587-e9e1-4953-b032-f58f82e91f4d/Derivates/4b8b814f-8562-4ad0-8db8-9939cb103685.jpg",
+            "https://s23209.pcdn.co/wp-content/uploads/2014/10/220602_DD_Homemade-Ramen_572.jpg",
+            "https://shopee.co.id/inspirasi-shopee/wp-content/uploads/2022/01/ramen_schuessel.webp",
+            "https://awsimages.detik.net.id/community/media/visual/2023/05/05/jigo-ramen_169.jpeg?w=1200"
+          ],
+          "createdAt": "2024-02-02T10:00:00Z",
+          "updatedAt": "2024-02-02T11:15:00Z"
+        },
+        {
+          "name": "Tempura Delight",
+          "slug": "tempura-delight",
+          "description": "Tempura Delight offers a crispy and light assortment of Japanese tempura, featuring prawns, vegetables, and seafood, perfectly battered and fried to golden perfection. A delightful and crunchy treat.",
+          "excerpt": "Crispy and light Japanese tempura.",
+          "price": 28000,
+          "tags": ["Japanese", "Tempura", "Crispy"],
+          "thumbnail": "https://recipe30.com/wp-content/uploads/2022/11/Tempura-Shrimp.jpg",
+          "images": [
+            "https://twosleevers.com/wp-content/uploads/2023/03/Shrimp-Tempura-1.png",
+            "https://thesuburbansoapbox.com/wp-content/uploads/2022/08/STempura-18.jpg",
+            "https://www.marugameudon.co.id/webroot/files/MenuDetails/picture/ebi-tempura-1.jpg",
+            "https://cdn.idntimes.com/content-images/post/20201207/127594256-395282091746399-6783928207263426571-n-6fa5748f3af1be084feb889cc4da14bc_600x400.jpg",
+            "https://lifestyle.haluan.co/wp-content/uploads/2022/05/Resep-Tempura-Udang-ala-Marugame-Udon.jpg"
+          ],
+          "createdAt": "2024-02-03T15:00:00Z",
+          "updatedAt": "2024-02-03T16:45:00Z"
+        },
+        {
+          "name": "Chirashi Bowl",
+          "slug": "chirashi-bowl",
+          "description": "Chirashi Bowl presents a colorful and flavorful assortment of fresh sashimi, seafood, and vegetables atop a bed of sushi rice. A visually stunning and delicious Japanese dish.",
+          "excerpt": "Colorful and flavorful Japanese chirashi bowl.",
+          "price": 45000,
+          "tags": ["Japanese", "Chirashi", "Sashimi"],
+          "thumbnail": "https://cdn.vox-cdn.com/thumbor/dq3wKOtT8_Wk7xV6EUKlpMGIALE=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19422626/chirashibowl.jpg",
+          "images": [
+            "https://assets.tastemadecdn.net/images/1720c9/9153014673bdbdf9ff39/4a24df.jpg",
+            "https://130194610.cdn6.editmysite.com/uploads/1/3/0/1/130194610/s826768362947937979_p55_i1_w2998.jpeg?width=2560",
+            "https://hips.hearstapps.com/hmg-prod/images/chirashi-bowl-1-1656100228.jpg?crop=0.8890666666666666xw:1xh;center,top&resize=1200:*",
+            "https://www.simplyrecipes.com/thmb/i0jtlOtLtDAlTj5Ld-WD6XGwm8c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Chirashi-Bowl-LEAD-03-ce1c58caa7b841b5a4aefda3954a4444.jpg",
+            "https://d194ip2226q57d.cloudfront.net/images/Chirashi_Donburi.original.jpg"
+          ],
+          "createdAt": "2024-02-04T08:00:00Z",
+          "updatedAt": "2024-02-04T09:30:00Z"
+        },
+        {
+          "name": "Okonomiyaki Fusion",
+          "slug": "okonomiyaki-fusion",
+          "description": "Okonomiyaki Fusion offers a modern twist to the traditional Japanese savory pancake, featuring a mix of cabbage, pork, seafood, and flavorful toppings. A fusion delight for your taste buds.",
+          "excerpt": "Modern twist on Japanese okonomiyaki.",
+          "price": 32000,
+          "tags": ["Japanese", "Okonomiyaki", "Fusion"],
+          "thumbnail": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/26043520/Praktis-dan-Simpel-Ini-Cara-Membuat-okonomiyaki-khas-jepang-yang-Lezat.jpg",
+          "images": [
+            "https://asset.kompas.com/crops/Oz3epqLtlZ5LT6wf7Xpjv6Pt4eg=/0x0:1000x667/750x500/data/photo/2021/07/23/60fa65be205f5.jpg",
+            "https://i.ytimg.com/vi/-IL0I3LD1_c/maxresdefault.jpg",
+            "https://www.marionskitchen.com/wp-content/uploads/2019/11/Japanese-Sweet-Potato-Okonomiyaki1.jpg",
+            "https://media.japanesestation.com/images/750x422/2020/05/20/12777-okonomiyaki.jpg",
+            "https://storage.googleapis.com/ikidane/upload/2019_03_K01_9_0846c586e1/2019_03_K01_9_0846c586e1.jpg"
+          ],
+          "createdAt": "2024-02-05T14:00:00Z",
+          "updatedAt": "2024-02-05T15:45:00Z"
+        },
+        {
+          "name": "Unagi Don",
+          "slug": "unagi-don",
+          "description": "Unagi Don features grilled eel served over a bed of sushi rice, drizzled with a sweet and savory sauce. A classic Japanese dish that combines the richness of eel with the simplicity of rice.",
+          "excerpt": "Grilled eel over sushi rice.",
+          "price": 40000,
+          "tags": ["Japanese", "Unagi", "Rice Bowl"],
+          "thumbnail": "https://www.justonecookbook.com/wp-content/uploads/2021/07/Unadon-Eel-Rice-9543-I-1-500x500.jpg",
+          "images": [
+            "https://cdn.media.amplience.net/i/japancentre/recipe-1434-unagi-don-grilled-eel-rice-bowl/Unagi-don-grilled-eel-rice-bowl?$poi$&w=700&h=410&sm=c&fmt=auto",
+            "https://asset.kompas.com/crops/SLg-h3sDfFoh62w9cvniCi0Edqo=/9x0:977x645/750x500/data/photo/2022/05/10/627a6616c8884.jpg",
+            "https://akiratogo.com/cdn/shop/products/Unagidon_3264x.jpg?v=1600651035",
+            "https://www.savorysweetspoon.com/wp-content/uploads/2023/11/Unagi-Don-1x1-1.jpg",
+            "https://images.food52.com/3nWmD0b2I_gN21S38Z49Gm_r084=/fit-in/1200x1200/497fb4ba-6bad-4231-ad55-78b43b1ccca9--2022-0310_unadon-eel-rice-bowl-final_3x2_julia-gartland.jpg"
+          ],
+          "createdAt": "2024-02-06T11:00:00Z",
+          "updatedAt": "2024-02-06T12:15:00Z"
+        },
+        {
+          "name": "Gyoza Delight",
+          "slug": "gyoza-delight",
+          "description": "Gyoza Delight presents a delectable assortment of Japanese dumplings, filled with a flavorful mix of pork, vegetables, and seasonings. Served with a dipping sauce for a delightful bite-sized treat.",
+          "excerpt": "Delectable Japanese dumplings.",
+          "price": 25000,
+          "tags": ["Japanese", "Gyoza", "Appetizer"],
+          "thumbnail": "https://www.sasa.co.id/medias/page_medias/chicken-gyoza.jpeg",
+          "images": [
+            "https://asset.kompas.com/crops/g1ZRThHPyu9fk48T5_ZG9EC4Gzs=/36x69:606x449/750x500/data/photo/2021/12/06/61adb12ae38e0.jpg",
+            "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/indizone/2023/01/13/6gspJ7E/resep-gyoza-ayam-mudah-camilan-khas-china-nikmat32.jpg",
+            "https://nibble-images.b-cdn.net/nibble/original_images/gyoza_01_a0b22ef1a4.jpg",
+            "https://www.astahomeware.com/wp-content/uploads/2023/05/Gyoza-The-Enchanting-Japanese-Dumpling_00Feat-Img-jpg.webp",
+            "https://thejapanscribe.files.wordpress.com/2018/10/gyoza1.jpeg?w=800&h=531&crop=1"
+          ],
+          "createdAt": "2024-02-07T09:00:00Z",
+          "updatedAt": "2024-02-07T10:30:00Z"
+        },
+        {
+          "name": "Sashimi Platter",
+          "slug": "sashimi-platter",
+          "description": "Sashimi Platter showcases a stunning arrangement of fresh and expertly sliced raw fish, served with wasabi and soy sauce. A visually appealing and delightful Japanese culinary experience.",
+          "excerpt": "Stunning sashimi platter with fresh raw fish.",
+          "price": 48000,
+          "tags": ["Japanese", "Sashimi", "Fresh"],
+          "thumbnail": "https://media.istockphoto.com/id/1225608498/photo/luxury-sashimi-set.jpg?s=612x612&w=0&k=20&c=gbzgf7vUfPJNzbDZdIgQoqRbCZApwPd661o9-rKcdqA=",
+          "images": [
+            "https://claudiosseafood.com.au/cdn/shop/products/SASHIMI.jpg?v=1588641990",
+            "https://glenorchy.hokkaidosushi.com.au/cdn/shop/products/barefoot_photographer_-142.png?v=1639395518",
+            "https://fresh-fish-maui.com/wp-content/uploads/2021/03/Fresh-FIsh-Maui-13.png",
+            "https://store.sushiandco.com.au/cdn/shop/products/1s.png?v=1639391446",
+            "https://i.redd.it/jbukyxjgxsk61.jpg"
+          ],
+          "createdAt": "2024-02-08T17:00:00Z",
+          "updatedAt": "2024-02-08T18:45:00Z"
+        },
+        {
+          "name": "Yakitori Skewers",
+          "slug": "yakitori-skewers",
+          "description": "Yakitori Skewers present a mouthwatering selection of grilled chicken skewers, seasoned with a savory glaze. Perfectly charred and flavorful, these skewers are a popular Japanese street food delight.",
+          "excerpt": "Mouthwatering Japanese grilled chicken skewers.",
+          "price": 30000,
+          "tags": ["Japanese", "Yakitori", "Grilled"],
+          "thumbnail": "https://www.justonecookbook.com/wp-content/uploads/2020/06/Yakitori-6177-I.jpg",
+          "images": [
+            "https://www.wandercooks.com/wp-content/uploads/2021/02/yakitori-chicken-skewers-3.jpg",
+            "https://hips.hearstapps.com/hmg-prod/images/yakitori-grilled-chicken-skewers-1673369849.jpg?crop=0.6665384615384615xw:1xh;center,top&resize=1200:*",
+            "https://i.pinimg.com/originals/7a/0a/74/7a0a74c78abee441b7d57f35589fe64e.png",
+            "https://www.slimmingeats.com/blog/wp-content/uploads/2010/03/yakitori-chicken-2.jpg",
+            "https://www.dinneratthezoo.com/wp-content/uploads/2019/12/yakitori-5.jpg"
+          ],
+          "createdAt": "2024-02-09T12:00:00Z",
+          "updatedAt": "2024-02-09T13:15:00Z"
+        },
+        {
+          "name": "Matcha Parfait",
+          "slug": "matcha-parfait",
+          "description": "Matcha Parfait is a delightful Japanese dessert featuring layers of matcha-flavored ice cream, red bean paste, mochi, and crunchy granola. A harmonious blend of textures and flavors.",
+          "excerpt": "Delightful Japanese matcha-flavored parfait.",
+          "price": 18000,
+          "tags": ["Japanese", "Dessert", "Matcha"],
+          "thumbnail": "https://cdn.shopify.com/s/files/1/0670/8402/6167/files/2023-03-20_113526_480x480.png?v=1679280064",
+          "images": [
+            "https://asianinspirations.com.au/wp-content/uploads/2019/04/R02165_Matcha_Parfait.jpg",
+            "https://en.bentoandco.com/cdn/shop/articles/custom_resized_d8a2eced-50a5-40e0-99cd-5ef161942373.png?v=1628733207",
+            "https://sevenleavestea.com/wp-content/uploads/2022/05/matcha_shiratama_parfait-1.png",
+            "https://i.pinimg.com/originals/77/58/ac/7758ac26899af2b62c8b36dd2e98cd02.jpg",
+            "https://cdnb.artstation.com/p/assets/images/images/032/508/033/large/ken-liang-fs-matchaparfait-portrait-hd.jpg?1606666544"
+          ],
+          "createdAt": "2024-02-10T14:00:00Z",
+          "updatedAt": "2024-02-10T15:30:00Z"
+        },
+        {
+          "name": "Classic Burger",
+          "slug": "classic-burger",
+          "description": "The Classic Burger is a timeless favorite, featuring a juicy beef patty, fresh lettuce, tomato, cheese, and special sauce, all sandwiched between a soft sesame seed bun. A satisfying and iconic American dish.",
+          "excerpt": "Timeless favorite with a juicy beef patty.",
+          "price": 35000,
+          "tags": ["Western", "Burger", "Classic"],
+          "thumbnail": "https://mccormick.widen.net/content/mrqnc4vbjy/original/frenchs_burger_styled-image_800x800.png",
+          "images": [
+            "https://www.countrysidecravings.com/wp-content/uploads/2023/04/classic-burger-image-2.jpg",
+            "https://recipes-for-all.com/wp-content/uploads/2020/12/Classic-Burger-Overhead-close-e1607017589542.jpg",
+            "https://foodie.sysco.com/wp-content/uploads/2019/07/Simply-Classic-Burger.jpg",
+            "https://www.unileverfoodsolutions.com.sg/dam/global-ufs/mcos/SEA/calcmenu/recipes/SG-recipes/vegetables-&-vegetable-dishes/%E7%BB%8F%E5%85%B8%E8%8A%9D%E5%A3%AB%E6%B1%89%E5%A0%A1/main-header.jpg",
+            "https://img.sunset02.com/sites/default/files/styles/4_3_horizontal_-_900x675/public/classic-burgers-u.jpg"
+          ],
+          "createdAt": "2024-03-01T12:00:00Z",
+          "updatedAt": "2024-03-01T12:30:00Z"
+        },
+        {
+          "name": "Grilled Salmon",
+          "slug": "grilled-salmon",
+          "description": "Grilled Salmon is a healthy and flavorful dish, featuring perfectly grilled salmon fillet seasoned with herbs and served with a side of fresh vegetables. A delightful choice for seafood enthusiasts.",
+          "excerpt": "Healthy and flavorful grilled salmon fillet.",
+          "price": 45000,
+          "tags": ["Western", "Salmon", "Grilled"],
+          "thumbnail": "https://www.wholesomeyum.com/wp-content/uploads/2021/06/wholesomeyum-Grilled-Salmon-Recipe-8.jpg",
+          "images": [
+            "https://thekitchengirl.com/wp-content/uploads/Grilled-Salmon-a_19-1.jpg",
+            "https://www.foodiecrush.com/wp-content/uploads/2019/05/Grilled-Salmon-foodiecrush.com-023.jpg",
+            "https://www.thespruceeats.com/thmb/HgM2h42z1HGEcSWkWk5CgAjDDpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-grill-salmon-2216658-hero-01-a9c948f8a238400ebaafc0caf509c7fa.jpg",
+            "https://www.simplyrecipes.com/thmb/dHQOaU9YEDErpq03ic1CAg5pZN8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2013__06__grilled-salmon-dill-butter-horiz-640-887464d180534e0e9b0e009c50e96e23.jpgs",
+            "https://fitfoodiefinds.com/wp-content/uploads/2020/05/grilled-salmon-12.jpg"
+          ],
+          "createdAt": "2024-03-02T10:00:00Z",
+          "updatedAt": "2024-03-02T11:15:00Z"
+        },
+        {
+          "name": "Margherita Pizza",
+          "slug": "margherita-pizza",
+          "description": "Margherita Pizza is a classic Italian-inspired dish, featuring a thin crust topped with fresh tomato sauce, mozzarella cheese, and basil leaves. Simple, yet bursting with authentic flavors.",
+          "excerpt": "Classic Italian-inspired pizza with fresh ingredients.",
+          "price": 30000,
+          "tags": ["Western", "Pizza", "Margherita"],
+          "thumbnail": "https://static.toiimg.com/thumb/56868564.cms?imgsize=1948751&width=800&height=800",
+          "images": [
+            "https://cookieandkate.com/images/2021/07/classic-margherita-pizza.jpg",
+            "https://eu.ooni.com/cdn/shop/articles/20220211142754-margherita-9920.jpg?crop=center&height=800&v=1644590277&width=800",
+            "https://ohsweetbasil.com/wp-content/uploads/four-cheese-margherita-pizza-recipe-12-scaled.jpg",
+            "https://images.prismic.io/eataly-us/ed3fcec7-7994-426d-a5e4-a24be5a95afd_pizza-recipe-main.jpg?auto=compress,format",
+            "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/indizone/2022/12/16/Ens875q/mengenal-margherita-pizza-jenis-pizza-klasik-italia-nikmat77.jpg"
+          ],
+          "createdAt": "2024-03-03T15:00:00Z",
+          "updatedAt": "2024-03-03T16:45:00Z"
+        },
+        {
+          "name": "Caesar Salad",
+          "slug": "caesar-salad",
+          "description": "Caesar Salad is a refreshing and crisp salad, featuring romaine lettuce, croutons, Parmesan cheese, and a creamy Caesar dressing. A classic choice for a light and flavorful meal.",
+          "excerpt": "Refreshing salad with crisp romaine lettuce.",
+          "price": 25000,
+          "tags": ["Western", "Salad", "Caesar"],
+          "thumbnail": "https://www.recipetineats.com/wp-content/uploads/2016/05/Caesar-Salad_7-SQ.jpg",
+          "images": [
+            "https://awsimages.detik.net.id/community/media/visual/2020/12/22/chicken-caesar-salad_43.jpeg?w=600&q=90",
+            "https://www.twopeasandtheirpod.com/wp-content/uploads/2023/04/Caesar-Salad-24.jpg",
+            "https://www.spendwithpennies.com/wp-content/uploads/2023/06/1200-Caesar-Salad-Recipe-SpendWithPennies.jpg",
+            "https://kurio-img.kurioapps.com/20/05/02/ed29d6d9-2e6d-4027-b2a6-0a2bc9e47ec2.jpegs",
+            "https://www.eatingbirdfood.com/wp-content/uploads/2023/06/grilled-chicken-caesar-salad-hero.jpg"
+          ],
+          "createdAt": "2024-03-04T08:00:00Z",
+          "updatedAt": "2024-03-04T09:30:00Z"
+        },
+        {
+          "name": "BBQ Ribs Platter",
+          "slug": "bbq-ribs-platter",
+          "description": "BBQ Ribs Platter is a hearty and satisfying dish, featuring tender and succulent barbecue ribs, slathered in a smoky and flavorful barbecue sauce. A true indulgence for barbecue lovers.",
+          "excerpt": "Hearty and satisfying BBQ ribs platter.",
+          "price": 38000,
+          "tags": ["Western", "BBQ Ribs", "Satisfying"],
+          "thumbnail": "https://assets.epicurious.com/photos/5b2bb1413456d312e47266ac/1:1/w_2405,h_2405,c_limit/BBQ%20Baby%20Back%20Ribs.jpg",
+          "images": [
+            "https://www.simplyrecipes.com/thmb/qFRsj738X8Jxaj4AZn7tT0ziwqA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Baby-Back-Ribs-LEAD-1-adf6ca6014f04472a41f87d1015fbf91.jpg",
+            "https://tjribstogeaux.com/wp-content/uploads/2020/12/Tj-Ribs-312-scaled.jpg",
+            "https://www.rockrecipes.com/wp-content/uploads/2015/01/Honey-Garlic-Sticky-Ribs-stacked-on-a-white-plate.jpg",
+            "https://agrillforallseasons.com/wp-content/uploads/2021/07/pellet-grill-ribs-1-6.jpg",
+            "https://img.taste.com.au/MKpP0wig/taste/2013/02/pork-ribs-with-spiced-barbecue-glaze-130279-1.jpg"
+          ],
+          "createdAt": "2024-03-05T14:00:00Z",
+          "updatedAt": "2024-03-05T15:45:00Z"
+        },
+        {
+          "name": "Pad Thai Delight",
+          "slug": "pad-thai-delight",
+          "description": "Pad Thai Delight is a popular Thai stir-fried noodle dish, featuring rice noodles, tofu, shrimp, peanuts, bean sprouts, and lime. A harmonious blend of sweet, salty, and tangy flavors.",
+          "excerpt": "Popular Thai stir-fried noodle dish with a delightful blend of flavors.",
+          "price": 32000,
+          "tags": ["Thai", "Pad Thai", "Stir-Fried"],
+          "thumbnail": "https://www.recipetineats.com/wp-content/uploads/2020/01/Chicken-Pad-Thai_9-SQ.jpg",
+          "images": [
+            "https://www.onceuponachef.com/images/2016/03/pad-thai-1200x1483.jpg",
+            "https://hips.hearstapps.com/hmg-prod/images/pad-thai-index-6477629462a38.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=1200:*",
+            "https://i0.wp.com/resepkoki.id/wp-content/uploads/2021/01/Resep-Pad-Thai.jpg?fit=1080%2C1440&ssl=1",
+            "https://ministryofcurry.com/wp-content/uploads/2021/01/Pad-Thai_-1.jpg",
+            "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/507df592-3a79-4326-ae3e-9aaa00c748a0/Derivates/393e1a86-09aa-4de1-90f7-f675386c8729.jpg"
+          ],
+          "createdAt": "2024-04-01T12:00:00Z",
+          "updatedAt": "2024-04-01T12:30:00Z"
+        },
+        {
+          "name": "Tom Yum Soup",
+          "slug": "tom-yum-soup",
+          "description": "Tom Yum Soup is a spicy and sour Thai soup, featuring shrimp, mushrooms, lemongrass, lime leaves, and chili. A comforting and invigorating soup with a burst of Thai flavors.",
+          "excerpt": "Spicy and sour Thai soup with shrimp and mushrooms.",
+          "price": 28000,
+          "tags": ["Thai", "Tom Yum", "Spicy"],
+          "thumbnail": "https://hot-thai-kitchen.com/wp-content/uploads/2013/03/tom-yum-goong-blog.jpg",
+          "images": [
+            "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/23FC4FB8-014B-45B5-A70B-C4EEE033FAD9/Derivates/14daddd1-cde7-4812-8902-7b9c9fe60ced.jpg",
+            "https://www.thespruceeats.com/thmb/_6FHZOPt5qp88GiTG3UIDptikFc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tom-yum-soup-best-3217653-Hero_01-1bf2ac7948fc407c97db9ee2d1aa2b9b.jpg",
+            "https://www.marionskitchen.com/wp-content/uploads/2019/04/Thai-Tom-Yum-Soup2.jpg",
+            "https://i2.wp.com/seonkyounglongest.com/wp-content/uploads/2021/03/Tom-Yum-07-mini.jpg?fit=1000%2C667&ssl=1",
+            "https://rasamalaysia.com/wp-content/uploads/2020/12/tom-yum3-500x375.jpg"
+          ],
+          "createdAt": "2024-04-02T10:00:00Z",
+          "updatedAt": "2024-04-02T11:15:00Z"
+        },
+        {
+          "name": "Green Curry Bliss",
+          "slug": "green-curry-bliss",
+          "description": "Green Curry Bliss is a flavorful Thai green curry dish, featuring chicken, coconut milk, green chili, Thai eggplant, and basil leaves. A delicious and aromatic curry with a hint of spice.",
+          "excerpt": "Flavorful Thai green curry with chicken and coconut milk.",
+          "price": 35000,
+          "tags": ["Thai", "Green Curry", "Flavorful"],
+          "thumbnail": "https://hot-thai-kitchen.com/wp-content/uploads/2022/04/green-curry-new-sq-3.jpg",
+          "images": [
+            "https://www.thespruceeats.com/thmb/lRkFd-tG5HDOJQtwQHXM__6GjDw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/thai-green-curry-recipe-p3-3217442-hero-1-a3fcdfbc551849718c7750fa63ec8c6a.jpg",
+            "https://www.kitchensanctuary.com/wp-content/uploads/2019/06/Thai-Green-Curry-square-FS.jpg",
+            "https://www.seriouseats.com/thmb/Nzq9Msk7q4jcy64Ayycw6lXgu58=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210609-thai-green-curry-chicken-GaengKeowWanGai-vicky-wasik-seriouseats-25-de0c1741b5514e79a73db7d27acf7ffa.jpg",
+            "https://www.thespruceeats.com/thmb/-SBQc2TyBAO7HLSdNZOIXvRi0lc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/vegetarian-thai-green-coconut-curry-3217757-hero-01-f1367b1a337c47d48ee1a28591437084.jpg",
+            "https://www.recipetineats.com/wp-content/uploads/2019/02/Thai-Green-Curry_1.jpg"
+          ],
+          "createdAt": "2024-04-03T15:00:00Z",
+          "updatedAt": "2024-04-03T16:45:00Z"
+        },
+        {
+          "name": "Som Tum Salad",
+          "slug": "som-tum-salad",
+          "description": "Som Tum Salad is a refreshing Thai papaya salad, featuring shredded green papaya, cherry tomatoes, peanuts, and a zesty lime dressing. A perfect blend of sweet, sour, and spicy flavors.",
+          "excerpt": "Refreshing Thai papaya salad with a zesty lime dressing.",
+          "price": 25000,
+          "tags": ["Thai", "Som Tum", "Refreshing"],
+          "thumbnail": "https://www.allrecipes.com/thmb/dGUxVcAkDO91Cstmjdiux0cW-Ow=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Som-Tam-Malakor-Green-Papaya-Salad-2000-ec87b4dcd85041c991d11ec6a1ab5f30.jpg",
+          "images": [
+            "https://www.seriouseats.com/thmb/yKNZ9ICJC5ZNhzcYHdHENxogpFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210928-Som-Tam-Thai-green-papaya-salad-vicky-wasik-24-f0d666fc609f49a0b9f34897bd2c6303.jpg",
+            "https://i.pinimg.com/originals/b6/07/6e/b6076e8c8a5723d30960501ac45dc292.jpg",
+            "https://ianbenites.com/wp-content/uploads/2021/05/20210511_183402-1.jpg",
+            "https://www.pasundanekspres.co/wp-content/uploads/2023/10/1hkfbvu_som-tam-salad_625x300_04_September_18.jpg",
+            "https://thewoolfskitchen.com/wp-content/uploads/FullSizeRender-4-1-scaled-e1691600576314.jpg"
+          ],
+          "createdAt": "2024-04-04T08:00:00Z",
+          "updatedAt": "2024-04-04T09:30:00Z"
+        },
+        {
+          "name": "Massaman Curry Feast",
+          "slug": "massaman-curry-feast",
+          "description": "Massaman Curry Feast is a rich and aromatic Thai curry, featuring beef, potatoes, peanuts, and coconut milk. A comforting and hearty curry with a blend of Thai spices.",
+          "excerpt": "Rich and aromatic Thai Massaman curry with beef and potatoes.",
+          "price": 38000,
+          "tags": ["Thai", "Massaman Curry", "Aromatic"],
+          "thumbnail": "https://img.taste.com.au/eUVwa-YX/taste/2016/11/thai-massaman-beef-curry-101889-1.jpeg",
+          "images": [
+            "https://food-images.files.bbci.co.uk/food/recipes/thai_massaman_chicken_82428_16x9.jpg",
+            "https://www.marionskitchen.com/wp-content/uploads/2019/02/Thai-Massaman-Chicken-Curry-02.jpg",
+            "https://tastesbetterfromscratch.com/wp-content/uploads/2020/04/Massaman-Curry-1-500x500.jpg",
+            "https://ministryofcurry.com/wp-content/uploads/2021/01/Thai-Massaman-Curry-with-vegetables_.jpg",
+            "https://www.thai-food-online.co.uk/cdn/shop/files/masaman-curry-recipe.jpg?v=1614285805"
+          ],
+          "createdAt": "2024-04-05T14:00:00Z",
+          "updatedAt": "2024-04-05T15:45:00Z"
+        }
+  ]
+}
