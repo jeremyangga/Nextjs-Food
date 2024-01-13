@@ -3,7 +3,7 @@ import ProductCard from "@/components/ProductCard";
 import type { Product } from "@/types";
 import Link from "next/link";
 const dataProducts = async() => {
-  const res = await fetch(`http://localhost:3000/api/products`, {
+  const res = await fetch(`nextjs-food-5fpz-1kw7s88az-jeremys-projects-fd0e0ae2.vercel.app/api/products`, {
                 method: 'GET'
             });
             if(!res.ok){

@@ -13,7 +13,7 @@ export default function Register(){
         }
         console.log(NewUser, '<-- new user');
         try {
-            const res = await fetch('http://localhost:3000/api/register',{
+            const res = await fetch('nextjs-food-5fpz-1kw7s88az-jeremys-projects-fd0e0ae2.vercel.app/register',{
                 method: "POST",
                 headers: {
                     'content-type': 'application/json'

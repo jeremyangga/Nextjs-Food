@@ -10,9 +10,9 @@ type Props = {
 }
 
 
-const url = 'localhost:3000';
+// const url = 'localhost:3000';
 const dataProductsDetail = async (slug:string):Promise<Product> => {
-    const res = await fetch(`http://${url}/api/products/`+ slug, {
+    const res = await fetch(`nextjs-food-5fpz-1kw7s88az-jeremys-projects-fd0e0ae2.vercel.app/api/products/`+ slug, {
         method: 'GET'
     });
     if(!res.ok){

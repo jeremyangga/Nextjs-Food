@@ -10,7 +10,7 @@ export default function Products(){
     const dataProducts = async () => {
         try {
             setLoading(true);
-            const res = await fetch(`http://localhost:3000/api/products`, {
+            const res = await fetch(`nextjs-food-5fpz-1kw7s88az-jeremys-projects-fd0e0ae2.vercel.app/products`, {
                 method: 'GET'
             });
             if(!res.ok){
