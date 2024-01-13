@@ -2,19 +2,19 @@ import Navbar from "@/components/Navbar"
 import ProductCard from "@/components/ProductCard";
 import type { Product } from "@/types";
 import Link from "next/link";
-const dataProducts = async() => {
-  const res = await fetch(`nextjs-food-5fpz-1kw7s88az-jeremys-projects-fd0e0ae2.vercel.app/api/products`, {
-                method: 'GET'
-            });
-            if(!res.ok){
-                throw new Error("Failed to fetch data");
-            }
-            let getDataProducts = await res.json();
-            return getDataProducts.data as Product [];
-}
+// const dataProducts = async() => {
+//   const res = await fetch(`nextjs-food-5fpz-1kw7s88az-jeremys-projects-fd0e0ae2.vercel.app/api/products`, {
+//                 method: 'GET'
+//             });
+//             if(!res.ok){
+//                 throw new Error("Failed to fetch data");
+//             }
+//             let getDataProducts = await res.json();
+//             return getDataProducts.data as Product [];
+// }
 
 export default async function Home() {
-  let products = await dataProducts();
+  // let products = await dataProducts();
   const date = new Date();
   const yearNow:number = date.getFullYear();
   return (
@@ -32,11 +32,7 @@ export default async function Home() {
             <h1 className="font-bold text-3xl">Featured Products</h1>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 pt-5">
-          {
-            products.slice(0, 5).map((el) =>{
-              return <ProductCard key={el.slug} product={el}/>
-            })
-          }
+         
         </div>
         <div className="flex justify-center pb-5">
           <Link href="/products" className="btn btn-outline">See All Products</Link>
